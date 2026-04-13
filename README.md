@@ -1,3 +1,327 @@
+# 🏨 Hotel Booking System
+
+## 📌 Project Overview
+
+The Hotel Booking System is a full-stack web application that allows users to search hotels, view room details, and book rooms online. The system provides a secure and user-friendly interface with real-time availability and booking management.
+
+---
+
+## 🚀 Features
+
+* User Registration & Login (Authentication)
+* Search hotels by location
+* View room details and pricing
+* Book and cancel hotel rooms
+* Booking history tracking
+* Email confirmation (optional)
+* Responsive UI
+
+---
+
+## 🛠 Tech Stack
+
+* **Frontend:** React.js
+* **Backend:** Spring Boot
+* **Database:** PostgreSQL
+* **Tools:** DBeaver, Postman, IntelliJ
+
+---
+
+## 🏗 System Architecture
+
+Frontend (React) → Backend (Spring Boot REST API) → Database (PostgreSQL)
+
+---
+
+## 🗄 Database Design
+
+Tables used in the system:
+
+* Users
+* Hotels
+* Rooms
+* Bookings
+* User Preferences
+
+---
+
+## 👨‍💻 Team Contributions
+
+* **Sumanth** → Database Design & Management
+* **Manoj** → Backend Development
+* **Hitesh** → Backend Development
+* **Kartheek** → Frontend Development
+* **Basha** → Frontend Development
+
+---
+
+## ⚙️ Setup Instructions
+
+### Backend
+
+1. Open project in IntelliJ
+2. Configure PostgreSQL in `application.properties`
+3. Run Spring Boot application
+
+### Frontend
+
+1. Open project in VS Code
+2. Run:
+
+   ```bash
+   npm install
+   npm run dev
+   ```
+
+---
+
+## 📦 API Endpoints (Sample)
+
+* `POST /api/auth/register`
+* `POST /api/auth/login`
+* `GET /api/hotels`
+* `GET /api/rooms/{hotelId}`
+* `POST /api/bookings`
+
+---
+
+## 🔐 Security
+
+* JWT Authentication
+* Password encryption using BCrypt
+
+---
+
+## 📈 Future Enhancements
+
+* Online payment integration
+* Admin dashboard
+* Email & SMS notifications
+* AI-based hotel recommendations
+
+---
+
+## 📄 Conclusion
+
+This project demonstrates a complete full-stack application with secure authentication, database integration, and real-world booking functionality.
+
+---
+# 🏨 Hotel Booking System
+
+## 📌 Project Overview
+
+The Hotel Booking System is a full-stack web application that allows users to search hotels, view room details, and book rooms online. The system provides a secure and user-friendly interface with real-time availability and booking management.
+
+---
+
+## 🚀 Features
+
+* User Registration & Login (Authentication)
+* Search hotels by location
+* View room details and pricing
+* Book and cancel hotel rooms
+* Booking history tracking
+* Email confirmation (optional)
+* Responsive UI
+
+---
+
+## 🛠 Tech Stack
+
+* **Frontend:** React.js
+* **Backend:** Spring Boot
+* **Database:** PostgreSQL
+* **Tools:** DBeaver, Postman, IntelliJ
+
+---
+
+## 🏗 System Architecture
+
+Frontend (React) → Backend (Spring Boot REST API) → Database (PostgreSQL)
+
+---
+
+## 🗄 Database Design
+
+Tables used in the system:
+
+* Users
+* Hotels
+* Rooms
+* Bookings
+* User Preferences
+
+---
+
+## 👨‍💻 Team Contributions
+
+* **Sumanth** → Database Design & Management
+* **Manoj** → Backend Development
+* **Hitesh** → Backend Development
+* **Kartheek** → Frontend Development
+* **Basha** → Frontend Development
+
+---
+
+## ⚙️ Setup Instructions
+
+### Backend
+
+1. Open project in IntelliJ
+2. Configure PostgreSQL in `application.properties`
+3. Run Spring Boot application
+
+### Frontend
+
+1. Open project in VS Code
+2. Run:
+
+   ```bash
+   npm install
+   npm run dev
+   ```
+
+---
+
+## 📦 API Endpoints (Sample)
+
+* `POST /api/auth/register`
+* `POST /api/auth/login`
+* `GET /api/hotels`
+* `GET /api/rooms/{hotelId}`
+* `POST /api/bookings`
+
+---
+
+## 🔐 Security
+
+* JWT Authentication
+* Password encryption using BCrypt
+
+---
+
+## 📈 Future Enhancements
+
+* Online payment integration
+* Admin dashboard
+* Email & SMS notifications
+* AI-based hotel recommendations
+
+---
+
+## 📄 Conclusion
+
+This project demonstrates a complete full-stack application with secure authentication, database integration, and real-world booking functionality.
+
+---
+# 🏨 Hotel Booking System
+
+## 📌 Project Overview
+
+The Hotel Booking System is a full-stack web application that allows users to search hotels, view room details, and book rooms online. The system provides a secure and user-friendly interface with real-time availability and booking management.
+
+---
+
+## 🚀 Features
+
+* User Registration & Login (Authentication)
+* Search hotels by location
+* View room details and pricing
+* Book and cancel hotel rooms
+* Booking history tracking
+* Email confirmation (optional)
+* Responsive UI
+
+---
+
+## 🛠 Tech Stack
+
+* **Frontend:** React.js
+* **Backend:** Spring Boot
+* **Database:** PostgreSQL
+* **Tools:** DBeaver, Postman, IntelliJ
+
+---
+
+## 🏗 System Architecture
+
+Frontend (React) → Backend (Spring Boot REST API) → Database (PostgreSQL)
+
+---
+
+## 🗄 Database Design
+
+Tables used in the system:
+
+* Users
+* Hotels
+* Rooms
+* Bookings
+* User Preferences
+
+---
+
+## 👨‍💻 Team Contributions
+
+* **Sumanth** → Database Design & Management
+* **Manoj** → Backend Development
+* **Hitesh** → Backend Development
+* **Kartheek** → Frontend Development
+* **Basha** → Frontend Development
+
+---
+
+## ⚙️ Setup Instructions
+
+### Backend
+
+1. Open project in IntelliJ
+2. Configure PostgreSQL in `application.properties`
+3. Run Spring Boot application
+
+### Frontend
+
+1. Open project in VS Code
+2. Run:
+
+   ```bash
+   npm install
+   npm run dev
+   ```
+
+---
+
+## 📦 API Endpoints (Sample)
+
+* `POST /api/auth/register`
+* `POST /api/auth/login`
+* `GET /api/hotels`
+* `GET /api/rooms/{hotelId}`
+* `POST /api/bookings`
+
+---
+
+## 🔐 Security
+
+* JWT Authentication
+* Password encryption using BCrypt
+
+---
+
+## 📈 Future Enhancements
+
+* Online payment integration
+* Admin dashboard
+* Email & SMS notifications
+* AI-based hotel recommendations
+
+---
+
+## 📄 Conclusion
+
+This project demonstrates a complete full-stack application with secure authentication, database integration, and real-world booking functionality.
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
